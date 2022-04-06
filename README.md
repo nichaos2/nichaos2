@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nichaos2
 - 👀 I’m interested in software develoment and more specifically in web development
 - 🌱 I’m currently learning Django, Rest etc
-- 💞️ I’m looking to collaborate on pretty much antyhing, if I find time
+- 💞️ I’m looking to collaborate on pretty much anything, if I find time!
 - 📫 How to reach me (TODO :P)
 
 <!---
